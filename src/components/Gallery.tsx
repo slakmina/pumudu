@@ -41,12 +41,11 @@ export default function Gallery() {
         </div>
 
         {/* Masonry Grid */}
-        <motion.div layout className="gallery-masonry">
-          <AnimatePresence mode="popLayout">
+        <motion.div className="gallery-masonry">
+          <AnimatePresence mode="wait">
             {filteredImages.map((image, i) => (
               <motion.div
                 key={image.src}
-                layout
                 initial={{ opacity: 0, scale: 0.9 }}
                 animate={{ opacity: 1, scale: 1 }}
                 exit={{ opacity: 0, scale: 0.9 }}
