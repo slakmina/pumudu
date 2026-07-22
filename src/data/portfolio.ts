@@ -11,7 +11,7 @@ export const siteConfig = {
   behance: "https://www.behance.net/pumuduperera",
   linkedin: "https://www.linkedin.com/in/pumuduperera/",
   facebook: "https://www.facebook.com/pumudupereraphotography/",
-  instagram: "https://www.instagram.com/pumuduperera/",
+  instagram: "https://www.instagram.com/pumudu_perera_photography/",
 };
 
 export const navLinks = [
@@ -40,10 +40,10 @@ export const aboutContent = {
   title: "About Me",
   subtitle: "The story behind the lens",
   paragraphs: [
-    "I'm Pumudu Perera — a creative designer and photographer driven by the power of visual storytelling. My journey began with a deep curiosity for the way images can capture emotion, time, and meaning in a single frame.",
-    "With years of experience spanning brand design, commercial photography, and creative direction, I've developed a philosophy rooted in authenticity and intention. Every project is approached with a fresh perspective, ensuring that each visual output not only looks beautiful but communicates the right message.",
-    "My photography is about more than just taking pictures — it's about understanding light, composition, and the subtle moments that make an image unforgettable. From intimate portraits to expansive commercial campaigns, I bring the same level of dedication and artistry.",
-    "When I'm not behind the camera or designing brand identities, you'll find me exploring new creative techniques, collaborating with fellow artists, or seeking inspiration in the world around me.",
+    "I'm Pumudu Perera — a creative designer and photographer driven by the power of visual storytelling. My journey began with a deep curiosity for the way images can capture emotion, time, and[...]
+    "With years of experience spanning brand design, commercial photography, and creative direction, I've developed a philosophy rooted in authenticity and intention. Every project is approached w[...]
+    "My photography is about more than just taking pictures — it's about understanding light, composition, and the subtle moments that make an image unforgettable. From intimate portraits to exp[...]
+    "When I'm not behind the camera or designing brand identities, you'll find me exploring new creative techniques, collaborating with fellow artists, or seeking inspiration in the world around m[...]
   ],
   stats: [
     { value: 8, label: "Years Experience", suffix: "+" },
