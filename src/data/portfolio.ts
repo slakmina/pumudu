@@ -40,10 +40,10 @@ export const aboutContent = {
   title: "About Me",
   subtitle: "The story behind the lens",
   paragraphs: [
-    "I'm Pumudu Perera — a creative designer and photographer driven by the power of visual storytelling. My journey began with a deep curiosity for the way images can capture emotion, time, and[...]
-    "With years of experience spanning brand design, commercial photography, and creative direction, I've developed a philosophy rooted in authenticity and intention. Every project is approached w[...]
-    "My photography is about more than just taking pictures — it's about understanding light, composition, and the subtle moments that make an image unforgettable. From intimate portraits to exp[...]
-    "When I'm not behind the camera or designing brand identities, you'll find me exploring new creative techniques, collaborating with fellow artists, or seeking inspiration in the world around m[...]
+    "I'm Pumudu Perera — a creative designer and photographer driven by the power of visual storytelling. My journey began with a deep curiosity for the way images can capture emotion, time, and meaning in a single frame.",
+    "With years of experience spanning brand design, commercial photography, and creative direction, I've developed a philosophy rooted in authenticity and intention. Every project is approached with meticulous attention to detail.",
+    "My photography is about more than just taking pictures — it's about understanding light, composition, and the subtle moments that make an image unforgettable. From intimate portraits to expansive landscapes, each frame tells a story.",
+    "When I'm not behind the camera or designing brand identities, you'll find me exploring new creative techniques, collaborating with fellow artists, or seeking inspiration in the world around me.",
   ],
   stats: [
     { value: 8, label: "Years Experience", suffix: "+" },
